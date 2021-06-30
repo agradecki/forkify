@@ -1,6 +1,6 @@
 # forkify
 
-Recipe application with custom recipe uploads.
+JS tutorial project. Recipe application with custom recipe uploads.
 
 # live-demo
 
